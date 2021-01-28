@@ -1,0 +1,26 @@
+@media all and (min-width: 992px) {
+  .navbar .nav-item .dropdown-menu {
+    display: none; }
+
+  .navbar .nav-item:hover .nav-link {
+    color: #444; }
+
+  .navbar .nav-item:hover .dropdown-menu {
+    display: block; }
+
+  .navbar .nav-item .dropdown-menu {
+    margin-top: 0; } }
+.imgLogo {
+  height: 150px; }
+
+.aa li {
+  margin-left: 25px;
+  font-size: 20px; }
+  .aa li a {
+    color: black !important; }
+
+.example {
+  max-width: 600px;
+  height: 450px; }
+
+/*# sourceMappingURL=style.css.map */
